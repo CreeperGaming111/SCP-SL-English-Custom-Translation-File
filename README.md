@@ -15,4 +15,5 @@ To put this translation file:
 8. Restart the game and it should be done.
 Have fun playing. 🙂
 
-For contact Discord: yt_creepergaming111
+For contact Discord: yt_creepergaming111 (Distroy)
+
