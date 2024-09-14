@@ -3,3 +3,5 @@ SCP:SL Custom English Translation File. Inspired by: https://www.youtube.com/@sc
 I used Matthew's file for inspiration even took some of the translations from there.
 I made this for having a better experience on SCP:SL.
 Hope you will like this 🙂.
+
+To put this translation file you first have to 
