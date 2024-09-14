@@ -14,3 +14,5 @@ To put this translation file:
 7. Go to settings interface and change interface languege to English 1
 8. Restart the game and it should be done.
 Have fun playing. 🙂
+
+For contact Discord: yt_creepergaming111
