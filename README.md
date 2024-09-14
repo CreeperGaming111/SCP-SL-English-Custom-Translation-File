@@ -4,4 +4,13 @@ I used Matthew's file for inspiration even took some of the translations from th
 I made this for having a better experience on SCP:SL.
 Hope you will like this 🙂.
 
-To put this translation file you first have to 
+To put this translation file:
+1. You first have to download the English (Distroy) file.
+2. Unzip.
+3. Open the Browse local files from Steam: SCP:Secret Laboratory.
+4. Open translations.
+5. Drag the unzipped folder.
+6. Open the game.
+7. Go to settings interface and change interface languege to English 1
+8. Restart the game and it should be done.
+Have fun playing. 🙂
