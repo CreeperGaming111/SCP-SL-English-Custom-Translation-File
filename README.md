@@ -1,5 +1,5 @@
 # SCP-SL-English-Custom-Translation-File
-SCP:SL Custom English Translation File. Inspired by: https://www.youtube.com/@scp173gaming and I even used some of the traslations from his translatio file.
+SCP:SL Custom English Translation File. Inspired by: https://www.youtube.com/@scp173gaming and I even used some of the traslations from his translation file.
 I used Matthew's file for inspiration even took some of the translations from there.
 I made this for having a better experience on SCP:SL.
 Hope you will like this 🙂.
@@ -11,9 +11,9 @@ To put this translation file:
 4. Open translations.
 5. Drag the unzipped folder.
 6. Open the game.
-7. Go to settings interface and change interface languege to English 1
+7. Go to settings interface and change interface language to English 1
 8. Restart the game and it should be done.
 Have fun playing. 🙂
 
-For contact Discord: yt_creepergaming111 (Distroy)
+For contact Discord: distroy__ (Distroy)
 
