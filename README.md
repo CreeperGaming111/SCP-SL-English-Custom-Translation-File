@@ -17,3 +17,5 @@ Have fun playing. 🙂
 
 For contact Discord: distroy__ (Distroy)
 
+If you want a server to play on, join: SCP:SL Creeper's Laboratories
+
