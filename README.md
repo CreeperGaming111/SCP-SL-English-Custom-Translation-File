@@ -1,4 +1,4 @@
-# SCP-SL-English-Custom-Translation-File
+# SCP-SL-English-Custom-Translation-File (discontinued)
 SCP:SL Custom English Translation File. Inspired by: https://www.youtube.com/@scp173gaming and I even used some of the translations from his translation file.
 I used Matthew's file for inspiration even took some of the translations from there.
 I made this for having a better experience on SCP:SL.
